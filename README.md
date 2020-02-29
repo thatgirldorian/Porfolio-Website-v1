@@ -9,7 +9,7 @@ For the portfolio container, the background kept showing up. The CSS code I want
 ```
 .portfolio-item {
    	background: var(--clr-accent);
-    overflow: hidden;
+      overflow: hidden;
    }
 ```
 
