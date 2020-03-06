@@ -24,6 +24,7 @@ For the portfolio container, the background kept showing up. The CSS code I want
 - Netlify
 
 <h3>Link to site:</h3>
+https://jolly-fermi-1792ee.netlify.com/
 
 
 <h3>Screenshot:</h3>
